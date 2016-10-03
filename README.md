@@ -50,7 +50,6 @@ ICT: comalityfx
 Brainstorm:
 2D or 3D?: 2D
 
-
 Genre: Side platformer
 
             Color: Maybe not (Original)
