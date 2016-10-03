@@ -48,7 +48,7 @@ ICT: comalityfx
 
 
 Brainstorm:
-2D or 3D?: 2D
+2D or 3D?: 2D 
 
 Genre: Side platformer
 
