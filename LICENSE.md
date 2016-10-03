@@ -109,7 +109,7 @@ Sources: OpenGameArt.org,
 
 	Story (writing): 
 	
-	Learning Curve:	
+	Learning Curve:	 
 Programming: Coursera, Codecademy
 Music: Schematist
 YouTube: Extra Credit 
